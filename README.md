@@ -38,4 +38,31 @@ Here is a recorded explanation of the "Sum of Multiples of 3 or 5 Below a Given 
 
 [Watch the video](./data/sum_of_multiple_of_3_or_5.mp4)
 
+## Sum of Even Fibonacci Numbers Below a Limit
+
+This algorithm calculates the sum of even Fibonacci numbers that are less than a specified limit.
+
+### Function
+
+```metta
+(= (fibonacci-sum $limit $x $xn)
+    ...
+)
+```
+How It Works:
+It iterates through all numbers below N, checking if they are divisible by 3 or 5.
+If a number is divisible by 3 or 5, it adds it to the sum.
+
+### Example:
+For N = 9, the numbers below 9 that are divisible by 3 or 5 are 3, 5, 6, 9. Their sum is 23.
+
+```metta
+!(sum-muliple-of-3-or-5 9)
+
+```
+### Video Explanation
+
+Here is a recorded explanation of the "Sum of Even Fibonacci Numbers Below a Limit" algorithm:
+
+[Watch the video](./data/sum_of_multiple_of_3_or_5.mp4)
 
