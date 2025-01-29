@@ -32,7 +32,10 @@ For N = 9, the numbers below 9 that are divisible by 3 or 5 are 3, 5, 6, 9. Thei
 !(sum-muliple-of-3-or-5 9)
 ```
 
-#### Video Explanation
+### Video Explanation
 
-   - Here is a recorded explanation of the Sum of Multiples of 3 or 5 Below a Given Number algorithm: link: `[Watch the video](./data/sum_of_multiple_of_3_or_5.mp4)`. 
+Here is a recorded explanation of the "Sum of Multiples of 3 or 5 Below a Given Number" algorithm:
+
+[Watch the video](./data/sum_of_multiple_of_3_or_5.mp4)
+
 
