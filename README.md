@@ -36,7 +36,7 @@ For N = 9, the numbers below 9 that are divisible by 3 or 5 are 3, 5, 6, 9. Thei
 
 Here is a recorded explanation of the "Sum of Multiples of 3 or 5 Below a Given Number" algorithm:
 
-[Watch the video](./data/sum_of_multiple_of_3_or_5.mp4)
+[Watch the video](https://www.youtube.com/watch?v=x4jtzFgazfU&ab_channel=GETACHEWGETUENYEW)
 
 ## Sum of Even Fibonacci Numbers Below a Limit
 
@@ -64,7 +64,7 @@ For N = 9, the numbers below 9 that are divisible by 3 or 5 are 3, 5, 6, 9. Thei
 
 Here is a recorded explanation of the "Sum of Even Fibonacci Numbers Below a Limit" algorithm:
 
-[Watch the video](./data/Sum_Even_Fibonacci_Numbers.mp4)
+[Watch the video](https://www.youtube.com/watch?v=AqEhpKxXAN4&ab_channel=GETACHEWGETUENYEW)
 
 ## Sorting Elements in a List
 This algorithm sorts a list of elements in ascending order using Insertion Sort.
@@ -118,7 +118,7 @@ For the list [1, 2, 3] and constant 10, applying addTwo results in [11, 12, 13].
 
 Here is a recorded explanation of the "Sorting Elements in a List" algorithm:
 
-[Watch the video](./data/BinaryMapFunction.mp4)
+[Watch the video](https://www.youtube.com/watch?v=yfPLMmfswQs&ab_channel=GETACHEWGETUENYEW)
 
 ## How to Run the Code
 - Install or set up a Meta Language interpreter.
