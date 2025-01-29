@@ -91,7 +91,7 @@ For the list `[12, 1, 7, 5, 11, 9, 21, 19]`, the sorted list will be `[1, 5, 7, 
 
 Here is a recorded explanation of the "Sorting Elements in a List" algorithm:
 
-[Watch the video](./data/sorting.mp4)
+[Watch the video](https://www.youtube.com/watch?v=9hqsat9cTNc&ab_channel=GETACHEWGETUENYEW)
 
 ## Binary Map Function on a List
 This algorithm applies a binary function (a function that takes two arguments) to each element of the list and a constant value. In this implementation, we use an addTwo function that adds a constant to each element of the list.
@@ -119,3 +119,17 @@ For the list [1, 2, 3] and constant 10, applying addTwo results in [11, 12, 13].
 Here is a recorded explanation of the "Sorting Elements in a List" algorithm:
 
 [Watch the video](./data/BinaryMapFunction.mp4)
+
+## How to Run the Code
+- Install or set up a Meta Language interpreter.
+- Copy and paste the algorithm code into your Meta interpreter.
+- Run the function with the appropriate parameters.
+- See the results printed in the console.
+
+## Contributions
+Feel free to fork the repository, contribute improvements, or suggest new algorithms to implement in Meta Language.
+
+## License
+This project is open-source and available under the MIT License. See the LICENSE file for more details.
+
+
